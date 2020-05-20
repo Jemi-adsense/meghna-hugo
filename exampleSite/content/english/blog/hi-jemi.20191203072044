@@ -5,6 +5,10 @@ description = ""
 image = "/images/s.jpg"
 image_webp = "/images/davido-ft-nicki-minaj-gbagbe-oshi-remix.png"
 title = "HI JEMI"
+[menu.static]
+URL = "https://themefisher.com/"
+name = "Themefisher"
+weight = 1
 
 +++
 That’s right, you didn’t misread, here we have one thousand random and interesting facts about literally everything you could think of!
